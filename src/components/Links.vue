@@ -70,6 +70,7 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  LogoYoutube,
 };
 
 // 链接跳转
